@@ -1,0 +1,4 @@
+streamlit
+requests
+stmol
+py3Dmol
